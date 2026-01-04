@@ -11,3 +11,8 @@
 #Linux Utilities: grep, awk, cut, sort, uniq
 
 #Logs Analyzed: /var/log/auth.log
+
+#How to run it: Go to the project's directory and use the command <python3 log_analyzer.py>. It will return an output within the shell and save the output into suspicious_activity_report.txt
+
+#Example Output: No suspicious authentication activity detected.
+
